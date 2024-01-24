@@ -15,6 +15,7 @@ import {
 import { buttonVariants } from "@/registry/new-york/ui/button"
 import MailPage from "@/app/examples/mail/page"
 
+// Main page for the site
 export default function IndexPage() {
   return (
     <div className="container relative">
